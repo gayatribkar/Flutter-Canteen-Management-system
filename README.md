@@ -1,4 +1,4 @@
-Canteen Management Application
+<strong> Canteen Management Application </strong>
 
 The Canteen Automation System app is a digital solution for managing and streamlining the operations of a canteen. It aims to improve efficiency and convenience for both canteen staff and customers. 
 
