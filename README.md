@@ -14,11 +14,11 @@ Some advantages of using the Canteen Automation System app include:
 
 Overall, the Canteen Automation System app is a valuable tool for managing and streamlining canteen operations, improving efficiency, convenience, and customer satisfaction.
 
-![image6](https://user-images.githubusercontent.com/87595760/209168040-9cc2c5c6-7cae-4e08-bcb1-41507fbe1e1b.jpg)
+![image6](https://user-images.githubusercontent.com/87595760/209168040-9cc2c5c6-7cae-4e08-bcb1-41507fbe1e1b.jpg =250x250)
 
 ![image7](https://user-images.githubusercontent.com/87595760/209168106-5847ff5c-a1f8-4096-bdfc-61a43cdca9c6.jpg)
 
-![image8](https://user-images.githubusercontent.com/87595760/209168287-05809bd0-61ec-4756-b07c-18bb77f0acff.jpg)
+![image8](https://user-images.githubusercontent.com/87595760/209168287-05809bd0-61ec-4756-b07c-18bb77f0acff.jpg =250x250)
 
 ![image9](https://user-images.githubusercontent.com/87595760/209168332-07e953d6-9d48-4c68-8ca3-394cacf060a5.jpg)
 
